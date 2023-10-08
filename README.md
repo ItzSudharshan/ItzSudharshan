@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Nayaksudharshan19@gmail.com**
 
-- 📄 Know about my experiences [In computer science, learning is like a never-ending software update – essential to keep your skills running smoothly.](In computer science, learning is like a never-ending software update – essential to keep your skills running smoothly.)
+- 📄 Know about my experiences In computer science, learning is like a never-ending software update – essential to keep your skills running smoothly.
 
 - ⚡ Fun fact **"Do you know why computer programmers are bad at relationships? Because they have trouble with 'commitment'!"**
 
