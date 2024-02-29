@@ -40,9 +40,7 @@
 
 <div align="left">
   <a href="www.linkedin.com/in/
-sudharshan-nayak
-
-" target="_blank">
+sudharshan-nayak" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Shan1266?t=YtPYRXlzfvhWwyJJq4BbxA&s=08" target="_blank">
